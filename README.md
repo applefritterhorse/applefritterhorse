@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FbZ-YaCpEPZIAAAAC%2Freze-chainsaw-man-movie.gif&f=1&nofb=1&ipt=893498dfc4e90fd791c04980ba2011505c79d666a87efcca0eb391bd3a3fa35d&ipo=images"
+    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2Fl9_H7Oh6RXIAAAAC%2Freze-chainsaw-man.gif&f=1&nofb=1&ipt=79a3f3de61ba1bbec56ca1e20f60e62a9cc3ae7e07ccd92b59c679cf9ab82110&ipo=images"
     width="100%"
     alt="Reze animated banner"
   />
@@ -11,7 +11,7 @@
 
 <br/>
 
-# 🌺 applefritterhorse
+#   apple fritter horse 🍏
 
 ### Student • Aspiring Developer • Anime Enthusiast
 
