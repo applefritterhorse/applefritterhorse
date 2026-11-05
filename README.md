@@ -2,12 +2,15 @@
 <div align="center">
 
 <div align="center">
-  <img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2Fl9_H7Oh6RXIAAAAC%2Freze-chainsaw-man.gif&f=1&nofb=1&ipt=79a3f3de61ba1bbec56ca1e20f60e62a9cc3ae7e07ccd92b59c679cf9ab82110&ipo=images"
-    width="100%"
-    alt="Reze animated banner"
-  />
+  <div style="width: 100%; height: 230px; overflow: hidden;">
+    <img
+      src="https://media1.tenor.com/m/l9_H7Oh6RXIAAAAC/reze-chainsaw-man.gif"
+      alt="Reze animated banner"
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
+    />
+  </div>
 </div>
+
 
 <br/>
 
