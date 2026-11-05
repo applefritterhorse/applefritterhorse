@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/applefritterhorse/applefritterhorse/main/denreze-reze.gif"
+    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FbZ-YaCpEPZIAAAAC%2Freze-chainsaw-man-movie.gif&f=1&nofb=1&ipt=893498dfc4e90fd791c04980ba2011505c79d666a87efcca0eb391bd3a3fa35d&ipo=images"
     width="100%"
     alt="Reze animated banner"
   />
