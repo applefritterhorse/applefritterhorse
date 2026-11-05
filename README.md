@@ -1,7 +1,13 @@
 
 <div align="center">
 
-<img src="./reze.gif" width="100%" alt="Reze animated banner"/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/applefritterhorse/applefritterhorse/main/denreze-reze.gif"
+    width="100%"
+    alt="Reze animated banner"
+  />
+</div>
 
 <br/>
 
