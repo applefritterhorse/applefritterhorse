@@ -19,24 +19,24 @@
 
 ### 🌺 「 れぜ 」 — REZE
 
-*"Even the smallest flowers deserve to bloom."*
+*"rat."*
 
 </div>
 
 ## 🦋 About Me
 
 ```yaml
-name: "Apple Fritter Horse"
-alias: "Reze"
+name: "apple fritter horse"
+alias: "apple fritter horse"
 role: "Student & Aspiring Developer"
 experience: "Intermediate"
 interests:
-  - Software Development
-  - Creative Coding
-  - Technology
-  - Open Source
+  - Software Development maybe
+  - Game stuff thingy
+  - idk
+  - Open Source since its free
 currently_learning: "Something new every day"
-motto: "Keep building. Keep blooming."
+motto: "Listen Up! Let's say you drink too much strawberry milk, and have to use the bathroom in the middle of the night. But it's cold outside your bed. You don't want to get up, but the urge to urinate is just too strong! You make up your mind to go! You run to the bathroom, stand in front of the toilet, and let loose! You think that all your life has led to this moment! But then you realize: it isn't the bathroom - you're still in bed! That feeling of lukewarm wetness spreads like wildfire! But you don't stop! You can't stop! That's what I'm talking about! That's the truth of strawberry milk!"
 ```
 
 - 🌸 Student with a passion for programming.
@@ -47,7 +47,7 @@ motto: "Keep building. Keep blooming."
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Arsenal
 
 <div align="center">
 
