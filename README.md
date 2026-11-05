@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./reze-banner.jpg" width="100%" alt="Reze banner"/>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,30:30104D,65:8B245E,100:D94680&height=220&section=header&text=REZE&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Lost%20in%20a%20world%20of%20code%20%26%20dreams&descAlignY=60&descSize=16" width="100%" />
 
