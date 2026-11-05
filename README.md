@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🌺 「 れぜ 」 — REZE
+### reze
 
 *"rat."*
 
