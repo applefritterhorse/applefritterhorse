@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./reze-banner.jpg" width="100%" alt="Reze banner"/>
+  <img src="./1500x500.jpg" width="100%" alt="Reze banner"/>
 </div>
 
 <div align="center">
