@@ -5,18 +5,17 @@
   <div style="width: 100%; height: 230px; overflow: hidden;">
     <img
       src="https://media1.tenor.com/m/l9_H7Oh6RXIAAAAC/reze-chainsaw-man.gif"
-      alt="Reze animated banner"
+      alt="reze animated banner"
       style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
     />
   </div>
 </div>
 
-
 <br/>
 
-#   apple fritter horse 🍏
+# apple fritter horse 🍏
 
-### Student • Aspiring Developer • Anime Enthusiast
+### student • aspiring developer • anime enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner;Keep+building.+Keep+blooming.;Just+a+student+with+big+dreams." />
 
@@ -30,30 +29,30 @@
 
 ---
 
-## 🦋 About Me
+## 🦋 about me
 
 ```yaml
-name: "Apple Fritter Horse"
-role: "Student & Aspiring Developer"
-experience: "Intermediate"
+name: "apple fritter horse"
+role: "student & aspiring developer"
+experience: "intermediate"
 interests:
-  - Software Development
-  - Game Development
-  - Technology
-  - Open Source
-currently_learning: "New things every day"
-motto: "Keep building. Keep blooming."
+  - software development
+  - game development
+  - technology
+  - open source
+currently_learning: "new things every day"
+motto: "listen up! let's say you drink too much strawberry milk, and have to use the bathroom in the middle of the night. but it's cold outside your bed. you don't want to get up, but the urge to urinate is just too strong! you make up your mind to go! you run to the bathroom, stand in front of the toilet, and let loose! you think that all your life has led to this moment! but then you realize: it isn't the bathroom - you're still in bed! that feeling of lukewarm wetness spreads like wildfire! but you don't stop! you can't stop! that's what i'm talking about! that's the truth of strawberry milk!"
 ```
 
-- 🌸 Student passionate about programming.
-- 💻 I enjoy creating things with code.
-- 🎮 Interested in games and technology.
-- 🦋 Exploring new technologies and ideas.
-- 🌙 Always learning and improving.
+- 🌸 student passionate about programming.
+- 💻 i enjoy creating things with code.
+- 🎮 interested in games and cool stuff.
+- 🦋 exploring new ideas.
+- 🌙 trying to learn and improving.
 
 ---
 
-## ⚡ My Tech Stack
+## ⚡ stack
 
 <div align="center">
 
@@ -63,16 +62,16 @@ motto: "Keep building. Keep blooming."
 
 ---
 
-## 🌙 What I'm Working On
+## 🌙 what i'm working on
 
-- Learning new programming concepts.
-- Building personal projects.
-- Improving my problem-solving skills.
-- Exploring open-source projects.
+- learning new programming concepts.
+- building personal projects.
+- improving my problem-solving skills.
+- exploring open-source projects.
 
 ---
 
-## 💜 My GitHub
+## 💜 my github
 
 <div align="center">
 
@@ -88,9 +87,9 @@ motto: "Keep building. Keep blooming."
 
 <div align="center">
 
-### 🌺 Thanks for visiting!
+### 🌺 thanks for visiting!
 
-*"Maybe somewhere, in another life, we could have gone to school together."*
+*"maybe somewhere, in another life, we could have gone to school together."*
 
 <br/>
 
